@@ -4,7 +4,7 @@
   <a href="https://www.linkedin.com/in/abir-hassini-4064b8124/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-youtube-URL">
+  <a href="https://medium.com/@hassini.abir">
     <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
   </a>
   <a href="your-twitter-URL">
@@ -37,7 +37,9 @@ Here are some ideas to get you started:
   My Github Stats 
 ---
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=abir9hassini&theme=dark&background=000000)](https://git.io/streak-stats)
+  ---
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abir9hassini&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+  ---
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abir9hassini&show_icons=true&theme=vision-friendly-dark)
 </div>
 
